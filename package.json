@@ -492,7 +492,7 @@
 		"@types/vscode": "^1.31.0",
 		"asciidoctor-kroki": "^0.9.1",
 		"file-url": "^3.0.0",
-		"follow-redirects": "^1.10.0",
+		"follow-redirects": "^1.14.8",
 		"https-proxy-agent": "^4.0.0",
 		"moment": "^2.14.1",
 		"tmp": "0.1.0",
