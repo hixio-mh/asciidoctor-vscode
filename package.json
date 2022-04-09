@@ -494,7 +494,7 @@
 		"file-url": "^3.0.0",
 		"follow-redirects": "^1.10.0",
 		"https-proxy-agent": "^4.0.0",
-		"moment": "^2.14.1",
+		"moment": "^2.29.2",
 		"tmp": "0.1.0",
 		"vscode-nls": "^4.1.1",
 		"vscode-test": "^1.4.0"
